@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Coding+some+stuff;Learning+some+stuff" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Coding+some+stuff;Learning+some+stuff" alt="Typing SVG" />
 
 <summary><h2>🛠️ My Stack</h2></summary>
 
